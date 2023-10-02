@@ -3,7 +3,7 @@ using System;
 class Program
 {
     static void Main(string[] args)
-    {
+    {   Console.WriteLine("precious");
         //calling the random module
         Random randomGen = new Random();
 

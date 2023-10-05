@@ -1,9 +1,16 @@
-using System;
+using Systems
 
-class Program
-{
-    static void Main(string[] args)
+namespace firstProject
+{   
+    public class person
     {
-        Console.WriteLine("Hello Develop03 World!");
+
+    }
+    class Program
+    {
+        static void Main(string[] args)
+        {
+        
+        }
     }
 }

@@ -1,0 +1,2 @@
+go to the temple,10,False
+bath daily,10,False,0,5
